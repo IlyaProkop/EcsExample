@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BalanceData
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 1a7a529b5b6e0454a98f18e36d2cef78, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BasePopcornSpeed
+    value: 0.002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseConveyorBeltSpeed
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: TapSpeedUpSpeedCoef
+    value: 1.6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseHeatingSpeed
+    value: 1.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseColdingSpeed
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CurrentTemperatureCap.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CurrentTemperatureCap.y
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MaxTemperature
+    value: 75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BasePopcornsInBigBag
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: GlodPopcornsChance
+    value: 0.01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpeedUpTime
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CleanTime
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseSpawnPopTime
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseCookingTime
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseGetGoldPopTime
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: OfflineTimeHourCap.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: OfflineTimeHourCap.y
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: StartMoney
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BasePopSellReward
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PopSellRewardMultiplier
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseBagSellReward
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BagSellRewardMultiplier
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BaseConveyorPrice
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ConveyorPriceMultiplierForNumber
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ChocoPopMultiplier
+    value: 1.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LaunchPopcornForce.x
+    value: 2.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LaunchPopcornForce.y
+    value: 3.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PopingPopcornForce.x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PopingPopcornForce.y
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: JumpPopcornForce.x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: JumpPopcornForce.y
+    value: 2.7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CookingShakePopcornForce.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CookingShakePopcornForce.y
+    value: 0.8779248
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.size
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 9c8ff939a0824324c91abd3a889b46e3, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 8753c33528063254eb86b4d12ae2556a, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: ff67fb138102c1840b3153993f9bdc26, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 676a2586d8d66e64aa542714ca6a1e1b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: 34ef8d6c3e1eadc4cae96e4839502707, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[5]
+    value: 
+    objectReference: {fileID: 11400000, guid: 14bc9c094a137114e81c7c9a1c131616, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[6]
+    value: 
+    objectReference: {fileID: 11400000, guid: 63b713c028effca44b1487a10743c083, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[7]
+    value: 
+    objectReference: {fileID: 11400000, guid: 8070b08101ac8dd4daefdfad6d0aba6c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeData.Array.data[8]
+    value: 
+    objectReference: {fileID: 11400000, guid: c1044a5a6b2afc74bba1ff1bf2e752ad, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeData.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeData.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: b6583b489da5f014cae8e87f466c87ca, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeData.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: b118d12617fdb5e44937d78525731435, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeData.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: a4e9d1ca81fd98544bc2abd47a5fe6b2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: TemperatureUpgradeStep
+    value: 2.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ConveyerSpeedUpgradeBase
+    value: 0.0002
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SpawnTimePopMultiplierForLevel
+    value: 0.9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CookingTimePopMultiplierForLevel
+    value: 0.9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EarningPopMultiplierForLevel
+    value: 1.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EarningBagMultiplierForLevel
+    value: 1.07
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EarningOfflineMultiplierForLevel
+    value: 1.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: HeatingSpeedMultiplierForLevel
+    value: 1.07
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

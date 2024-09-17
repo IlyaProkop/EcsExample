@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9636022511e84a84490e2074e104a2ad, type: 3}
+  m_Name: 3_MilkyChoco_UpgradeData
+  m_EditorClassIdentifier: 
+  UpgradeType: 5
+  UpgradeName: MILKY CHOCOLATE
+  UpgradeDescription: Remove the percentage of palm oil = <b><color=#EC9313>{0}%</color></b>
+  UpgradeSprite: {fileID: 21300000, guid: ce5e5220d94085b4fb3898b1dbc1b245, type: 3}
+  MaxLevel: 20
+  IsEpicUpgrade: 1
+  BasePrice: 15
+  PriceProgressionCoef: 1.07
+  MultiplierForLevel: 0
+  StartValue: 100
+  StepValue: -5

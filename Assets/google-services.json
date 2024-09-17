@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393698960213",
+    "project_id": "popcorn-idle",
+    "storage_bucket": "popcorn-idle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393698960213:android:663df6354d7f6a34b945dc",
+        "android_client_info": {
+          "package_name": "com.AnybodyParty.PopcornIdle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393698960213-p8i53d2cagiecfpvvse3o9f4te1qf13c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY5HVfl9TEIGL7WpFhjneHRxhdxadu8Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393698960213-p8i53d2cagiecfpvvse3o9f4te1qf13c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

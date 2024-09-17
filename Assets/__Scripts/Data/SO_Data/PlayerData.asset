@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706339e4313c4664fa26c3b328151180, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  IsGameLaunchedBefore: 1
+  IsVibrationOn: 1
+  IsSoundOn: 1
+  TutrorialStates: 01000101
+  Money: 4063879.5889192647
+  MoneyInSec: 4195.963580287119
+  GoldPopcornAmount: 2
+  PopcornAmount: 2092
+  BagSold: 31
+  CurrentLevelIndex: 0
+  CurrentLevelProgress: 0
+  UpgradeLevels:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 000000000100000002000000030000000400000005000000
+    _keys: 000000000100000002000000030000000400000005000000
+    _values: 1e0000003200000032000000000000000700000000000000
+  ConveyorBuyed: 0101010101
+  ProductLineBuyed: 010000

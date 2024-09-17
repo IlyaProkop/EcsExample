@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9636022511e84a84490e2074e104a2ad, type: 3}
+  m_Name: 2_LuckyBoy_UpgradeData
+  m_EditorClassIdentifier: 
+  UpgradeType: 4
+  UpgradeName: LUCKY BOY
+  UpgradeDescription: Increase the chance of dropping gold popcorns = <b><color=#EC9313>{0}%</color></b>
+  UpgradeSprite: {fileID: 21300000, guid: af397e59ac9e0e8459c4ad5a3af748ae, type: 3}
+  MaxLevel: 100
+  IsEpicUpgrade: 1
+  BasePrice: 10
+  PriceProgressionCoef: 2.07
+  MultiplierForLevel: 0
+  StartValue: 1
+  StepValue: 1

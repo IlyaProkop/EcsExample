@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a7a529b5b6e0454a98f18e36d2cef78, type: 3}
+  m_Name: BalanceData
+  m_EditorClassIdentifier: 
+  BasePopcornSpeed: 0.002
+  BaseConveyorBeltSpeed: 0.05
+  TapSpeedUpSpeedCoef: 2
+  BaseHeatingSpeed: 1.1
+  BaseColdingSpeed: 0.7
+  CurrentTemperatureCap: {x: 1, y: 15}
+  MaxTemperature: 75
+  BasePopcornsInBigBag: 10
+  GlodPopcornsChance: 0.01
+  SpeedUpTime: 2
+  CleanTime: 1
+  BaseSpawnPopTime: 12
+  BaseCookingTime: 20
+  BaseGetGoldPopTime: 2
+  OfflineTimeHourCap: {x: 1, y: 5}
+  StartMoney: 0
+  BasePopSellReward: 5
+  PopSellRewardMultiplier: 1
+  BaseBagSellReward: 50
+  BagSellRewardMultiplier: 1
+  BaseConveyorPrice: 100
+  ConveyorPriceMultiplierForNumber: 10
+  ChocoPopMultiplier: 1.8
+  LaunchPopcornForce: {x: 2.75, y: 3.75}
+  PopingPopcornForce: {x: 2, y: 3}
+  JumpPopcornForce: {x: 2, y: 2.7}
+  CookingShakePopcornForce: {x: 0, y: 0.8779248}
+  UpgradeData:
+  - {fileID: 11400000, guid: 8753c33528063254eb86b4d12ae2556a, type: 2}
+  - {fileID: 11400000, guid: 676a2586d8d66e64aa542714ca6a1e1b, type: 2}
+  - {fileID: 11400000, guid: 63b713c028effca44b1487a10743c083, type: 2}
+  - {fileID: 11400000, guid: b6583b489da5f014cae8e87f466c87ca, type: 2}
+  - {fileID: 11400000, guid: b118d12617fdb5e44937d78525731435, type: 2}
+  - {fileID: 11400000, guid: a4e9d1ca81fd98544bc2abd47a5fe6b2, type: 2}
+  TemperatureUpgradeStep: 2.5
+  ConveyerSpeedUpgradeBase: 0.0001
+  SpawnTimePopMultiplierForLevel: 0.9
+  CookingTimePopMultiplierForLevel: 0.9
+  EarningPopMultiplierForLevel: 1.16
+  EarningBagMultiplierForLevel: 1.07
+  EarningOfflineMultiplierForLevel: 1.16
+  HeatingSpeedMultiplierForLevel: 1.01

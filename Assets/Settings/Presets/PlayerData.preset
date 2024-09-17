@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerData
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 706339e4313c4664fa26c3b328151180, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: IsVibrationOn
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: IsSoundOn
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Money
+    value: 90107.33198977727
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MoneyInSec
+    value: 0.02880471467072479
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: GoldPopcornAmount
+    value: 11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PopcornAmount
+    value: 3458
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CurrentLevelIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CurrentLevelProgress
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: HeatingMaxTemperatureUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 308577d65276d294a86e18dc7d128780, type: 2}
+  - target: {fileID: 0}
+    propertyPath: HeatingSpeedUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 1596933dd4fce8f49ba87a929e0a06b2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: HeatingMinTemperatureUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 108b33dc28cb2ff4ebf6b6f1b9eae5c9, type: 2}
+  - target: {fileID: 0}
+    propertyPath: SpawnSpeedUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: dbfbc4cb340e719458edb75b8c4dfa2c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: ConveyorSpeedUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 78dc756fa5b11cc439856d452b96c037, type: 2}
+  - target: {fileID: 0}
+    propertyPath: BagSizeUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: d69ec68ae57a8cf489b188b3ddd52ed0, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EarnForPopUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 14e06f4433516004892efcc36484eb12, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EarnForBagUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 78b9a5023398f3e4bae55f78c53d2be5, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EarnOfflineUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 931b97b7904158349ac14771a4894fda, type: 2}
+  - target: {fileID: 0}
+    propertyPath: RepairStoveUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 6738e3e5397f8264fb04471eff478f93, type: 2}
+  - target: {fileID: 0}
+    propertyPath: LuckyBoyUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: a368261b8e9bb2c41a781a5ebb993829, type: 2}
+  - target: {fileID: 0}
+    propertyPath: MilkyChocoUpgrade
+    value: 
+    objectReference: {fileID: 11400000, guid: 388086cd6ff36724481344d5be1c0a4f, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.size
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 308577d65276d294a86e18dc7d128780, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 1596933dd4fce8f49ba87a929e0a06b2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 108b33dc28cb2ff4ebf6b6f1b9eae5c9, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: dbfbc4cb340e719458edb75b8c4dfa2c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: 78dc756fa5b11cc439856d452b96c037, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[5]
+    value: 
+    objectReference: {fileID: 11400000, guid: d69ec68ae57a8cf489b188b3ddd52ed0, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[6]
+    value: 
+    objectReference: {fileID: 11400000, guid: 14e06f4433516004892efcc36484eb12, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[7]
+    value: 
+    objectReference: {fileID: 11400000, guid: 78b9a5023398f3e4bae55f78c53d2be5, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CommonUpgradeLevels.Array.data[8]
+    value: 
+    objectReference: {fileID: 11400000, guid: 931b97b7904158349ac14771a4894fda, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeLevels.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeLevels.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 6738e3e5397f8264fb04471eff478f93, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeLevels.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: a368261b8e9bb2c41a781a5ebb993829, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EpicUpgradeLevels.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 388086cd6ff36724481344d5be1c0a4f, type: 2}
+  - target: {fileID: 0}
+    propertyPath: ConveyorBuyed.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ConveyorBuyed.Array.data[0]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ConveyorBuyed.Array.data[1]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ConveyorBuyed.Array.data[2]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ConveyorBuyed.Array.data[3]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ConveyorBuyed.Array.data[4]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ProductLineBuyed.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ProductLineBuyed.Array.data[0]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ProductLineBuyed.Array.data[1]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ProductLineBuyed.Array.data[2]
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
